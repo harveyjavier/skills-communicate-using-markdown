@@ -7,3 +7,7 @@
 ``` javascript
 console.log("Hello, world!");
 ```
+
+- [ ] Ideate
+- [ ] Code
+- [ ] Deploy
